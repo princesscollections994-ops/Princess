@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --pc-pink: #ec4899;
+  --pc-purple: #a855f7;
+  --pc-navy: #1e3a8a;
+}
+
+html, body {
+  scroll-behavior: smooth;
+}
